@@ -28,6 +28,6 @@ Olá! Sou Estudante de Programação, apaixonado em design e por isso a escolha 
 
 <div>
    <a href="https://www.instagram.com/luizpaulo.8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.facebook.com/profile.php?id=100055261993112 target="_blank"><img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" target="_blank"></a>
+   <a href="mailto:luizpaulosk8@icloud.com target="_blank"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
     <a href="mailto:luizpaulobispo8@gmail.com
 "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
